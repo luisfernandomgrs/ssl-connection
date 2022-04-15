@@ -27,7 +27,8 @@ I used Windows 10/11 Pro with WSL and VSCode / Visual Studio Community
 In this example, the validity period is 3650 days. Set the appropriate number of days for your company. Make a reminder to renew the certificate before it expires.
 
 # My notes
-## This doesn't functionlly after steps above; I receive a sequence errors that i not resolved...
+## This doesn't functionlly after steps above
+I receive a sequence errors that i not resolved...
 
 ```cmd
 /usr/include/boost/asio/detail/impl/posix_event.ipp:42: undefined reference to `pthread_condattr_setclock'
