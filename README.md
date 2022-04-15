@@ -3,10 +3,10 @@ Project C++, to learning about ssl-connection on Linux
 
 This project has code based at publishing by [yuanhui360/CPP-Programming-on-Linux](https://github.com/yuanhui360/CPP-Programming-on-Linux/tree/main/YH-59)
 
-#Notes about my setup
+# Notes about my setup
 I used Windows 10/11 Pro with WSL and VSCode / Visual Studio Community
 
-##You need to
+## You need to
 1. Forever check if you has used tab control and not space char to align your Makefile.
 
 2. How do I install the OpenSSL libraries?
@@ -26,8 +26,8 @@ I used Windows 10/11 Pro with WSL and VSCode / Visual Studio Community
 
 In this example, the validity period is 3650 days. Set the appropriate number of days for your company. Make a reminder to renew the certificate before it expires.
 
-#My notes
-##This doesn't functionlly after steps above; I receive a sequence errors that i not resolved...
+# My notes
+## This doesn't functionlly after steps above; I receive a sequence errors that i not resolved...
 
 ```cmd
 /usr/include/boost/asio/detail/impl/posix_event.ipp:42: undefined reference to `pthread_condattr_setclock'
